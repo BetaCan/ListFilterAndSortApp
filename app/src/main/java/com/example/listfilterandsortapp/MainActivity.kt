@@ -42,23 +42,23 @@ fun FilterAndSortListWithLazyColumn(modifier: Modifier = Modifier) {
 
     // Large in-memory list of fruits
     // List of fruits
-//    val fruits = listOf(
-//        "Apple", "Banana", "Orange", "Mango", "Pineapple", "Grapes", "Watermelon",
-//        "Strawberry", "Blueberry", "Kiwi", "Peach", "Plum", "Apricot", "Cantaloupe",
-//        "Papaya", "Pomegranate", "Cherry", "Lemon", "Lime", "Guava", "Lychee", "Dragon fruit",
-//        "Passion Fruit", "Raspberry", "Blackberry", "Coconut", "Fig"
-//    )
-
     val fruits = listOf(
         "Apple", "Banana", "Orange", "Mango", "Pineapple", "Grapes", "Watermelon",
         "Strawberry", "Blueberry", "Kiwi", "Peach", "Plum", "Apricot", "Cantaloupe",
         "Papaya", "Pomegranate", "Cherry", "Lemon", "Lime", "Guava", "Lychee", "Dragon fruit",
-        "Passion Fruit", "Raspberry", "Blackberry", "Coconut", "Fig",
-        "Cranberry", "Gooseberry", "Mulberry", "Tangerine", "Nectarine", "Persimmon",
-        "Starfruit", "Boysenberry", "Currant", "Elderberry", "Jackfruit", "Longan",
-        "Marionberry", "Sapodilla", "Soursop", "Ugli fruit", "Durian", "Breadfruit",
-        "Jujube", "Salak (Snake Fruit)", "Chico", "Loquat", "Tamarind", "Horned Melon"
+        "Passion Fruit", "Raspberry", "Blackberry", "Coconut", "Fig"
     )
+
+//    val fruits = listOf(
+//        "Apple", "Banana", "Orange", "Mango", "Pineapple", "Grapes", "Watermelon",
+//        "Strawberry", "Blueberry", "Kiwi", "Peach", "Plum", "Apricot", "Cantaloupe",
+//        "Papaya", "Pomegranate", "Cherry", "Lemon", "Lime", "Guava", "Lychee", "Dragon fruit",
+//        "Passion Fruit", "Raspberry", "Blackberry", "Coconut", "Fig",
+//        "Cranberry", "Gooseberry", "Mulberry", "Tangerine", "Nectarine", "Persimmon",
+//        "Starfruit", "Boysenberry", "Currant", "Elderberry", "Jackfruit", "Longan",
+//        "Marionberry", "Sapodilla", "Soursop", "Ugli fruit", "Durian", "Breadfruit",
+//        "Jujube", "Salak (Snake Fruit)", "Chico", "Loquat", "Tamarind", "Horned Melon"
+//    )
 
 
 
