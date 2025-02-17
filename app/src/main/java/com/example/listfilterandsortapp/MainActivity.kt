@@ -19,7 +19,6 @@ class MainActivity : ComponentActivity() {
 
         // Enable edge-to-edge content
         enableEdgeToEdge()
-
         setContent {
             ListFilterAndSortAppTheme {
                 // Scaffold layout to structure the app layout
